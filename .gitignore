@@ -1,24 +1,5 @@
 # Generated files
-configure
-autom4te.cache
-aclocal.m4
-config.h*
-config.log
-config.status
-Makefile
-Makefile.in
-ct-ng
-!ct-ng.comp
-!ct-ng.in
-paths.sh
-config/configure.in
-config/gen/
-config/versions/
-.config
-.config.*
-include/
-verbatim-data.mk
-maintainer/package-versions
+
 
 # Compressed files
 *.tar*
